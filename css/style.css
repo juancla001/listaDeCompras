@@ -1,0 +1,27 @@
+#pantallaVacio, #pantalla_detalle{
+    display: none;
+}
+#boton_de_carga{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    border-radius: 50%;
+}
+header{
+    background: cornflowerblue;
+    height: 80px;
+}
+#pantallaVacio{
+    text-align: center;
+    padding: 70px;
+}
+.pantallaVacio_emoji{
+    font-size: 200px;
+}
+.pantalla_listado_icono{
+    width: 30px;
+    margin-right: 6px;
+}
+
